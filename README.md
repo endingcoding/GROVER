@@ -1,6 +1,6 @@
 # GROVER  
 Graph‑guided Representation of Omics and Vision with Expert Regulation for Adaptive Spatial Multi‑omics Fusion  
-![Framework](https://github.com/endingcoding/GROVER/blob/main/GROVER/Framework.pdf)
+![Framework](https://github.com/endingcoding/GROVER/blob/main/GROVER/Framework.jpg)
 
 ## Prerequisite  
 * Python 3.10  
