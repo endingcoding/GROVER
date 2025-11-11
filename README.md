@@ -21,3 +21,6 @@ Graph‑guided Representation of Omics and Vision with Expert Regulation for Ada
 ## Getting started
 Dataset:
 Visium CytAssist Gene and Protein Expression Library of Human Breast Cancer, IF, 6.5mm (FFPE).(https://www.10xgenomics.com/datasets/gene-and-protein-expression-library-of-human-breast-cancer-cytassist-ffpe-2-standard).
+Visium CytAssist Gene and Protein Expression Library of Human Glioblastoma, IF, 11mm (FFPE).(https://www.10xgenomics.com/datasets/gene-and-protein-expression-library-of-human-glioblastoma-cytassist-ffpe-2-standard).
+Visium CytAssist Gene and Protein Expression Library of Human Tonsil, H&E, 6.5 mm (FFPE).(https://www.10xgenomics.com/datasets/gene-protein-expression-library-of-human-tonsil-cytassist-ffpe-2-standard)
+Visium CytAssist Gene and Protein Expression Library of Human Tonsil with Add-on Antibodies, H&E, 6.5 mm (FFPE).(https://www.10xgenomics.com/datasets/visium-cytassist-gene-and-protein-expression-library-of-human-tonsil-with-add-on-antibodies-h-e-6-5-mm-ffpe-2-standard)
